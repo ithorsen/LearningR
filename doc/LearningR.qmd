@@ -4,6 +4,30 @@ author: "Ida Kær Thorsen"
 format: html
 ---
 
+- Ida Kær Thorsen
+- Center for Physical Activity Research, Rigshospitalet
+
+# Intro
+
+**Random** short sentence in the *Introduction* section
+
+# Methods and Results
+
+Random **short** sentence in *the* Methods and Results section
+
+## Analysis
+
+Random short *sentence* in the **Analysis** section
+
+```{r}
+2+2
+```
+
+
+# Discussion
+
+Random short sentence **in** the Discussion *section*
+
 ```{r setup}
 #| message: FALSE
 #| warning: FALSE
